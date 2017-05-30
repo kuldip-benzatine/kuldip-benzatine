@@ -1,0 +1,848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2011 rel. 2 (http://www.altova.com) by TeaM DJiNN (TeaM DJiNN) -->
+<app>
+	<version>1</version>
+	<name>Minecraft</name>
+	<sticker id="1">
+		<file>01.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="2">
+		<file>02.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="3">
+		<file>03.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="4">
+		<file>04.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="5">
+		<file>05.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="6">
+		<file>06.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="7">
+		<file>07.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="8">
+		<file>08.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="9">
+		<file>09.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="10">
+		<file>10.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="11">
+		<file>11.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="12">
+		<file>12.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="13">
+		<file>13.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="14">
+		<file>14.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="15">
+		<file>15.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="16">
+		<file>16.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="17">
+		<file>17.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="18">
+		<file>18.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="19">
+		<file>19.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="20">
+		<file>20.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="21">
+		<file>21.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="22">
+		<file>22.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="23">
+		<file>23.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="24">
+		<file>24.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="25">
+		<file>25.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="26">
+		<file>26.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="27">
+		<file>27.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="28">
+		<file>28.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="29">
+		<file>29.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="30">
+		<file>30.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="31">
+		<file>31.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="32">
+		<file>32.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="33">
+		<file>33.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="34">
+		<file>34.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="35">
+		<file>35.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="36">
+		<file>36.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="37">
+		<file>37.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="38">
+		<file>38.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="39">
+		<file>39.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="40">
+		<file>40.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="41">
+		<file>41.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="42">
+		<file>42.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="43">
+		<file>43.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="44">
+		<file>44.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="45">
+		<file>45.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="46">
+		<file>46.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="47">
+		<file>47.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="48">
+		<file>48.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="49">
+		<file>49.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="50">
+		<file>50.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="51">
+		<file>51.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="52">
+		<file>52.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="53">
+		<file>53.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="54">
+		<file>54.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="55">
+		<file>55.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="56">
+		<file>56.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="57">
+		<file>57.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="58">
+		<file>58.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="59">
+		<file>59.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="60">
+		<file>60.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="61">
+		<file>61.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="62">
+		<file>62.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="63">
+		<file>63.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="64">
+		<file>64.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="65">
+		<file>65.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="66">
+		<file>66.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="67">
+		<file>67.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="68">
+		<file>68.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="69">
+		<file>69.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="70">
+		<file>70.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="71">
+		<file>71.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="72">
+		<file>72.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="73">
+		<file>73.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="74">
+		<file>74.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="75">
+		<file>75.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="76">
+		<file>76.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="77">
+		<file>77.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="78">
+		<file>78.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="79">
+		<file>79.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="80">
+		<file>80.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="81">
+		<file>81.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="82">
+		<file>82.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="83">
+		<file>83.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="84">
+		<file>84.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="85">
+		<file>85.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="86">
+		<file>86.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="87">
+		<file>87.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="88">
+		<file>88.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="89">
+		<file>89.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="90">
+		<file>90.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="91">
+		<file>91.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="92">
+		<file>92.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="93">
+		<file>93.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="94">
+		<file>94.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="95">
+		<file>95.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="96">
+		<file>96.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="97">
+		<file>97.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="98">
+		<file>98.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="99">
+		<file>99.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="100">
+		<file>100.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="101">
+		<file>101.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="102">
+		<file>102.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="103">
+		<file>103.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="104">
+		<file>104.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="105">
+		<file>105.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="106">
+		<file>106.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="107">
+		<file>107.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="108">
+		<file>108.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="109">
+		<file>109.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="110">
+		<file>110.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="111">
+		<file>111.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="112">
+		<file>112.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="113">
+		<file>113.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="114">
+		<file>114.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="115">
+		<file>115.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="116">
+		<file>116.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="117">
+		<file>117.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="118">
+		<file>118.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="119">
+		<file>119.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="120">
+		<file>120.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="121">
+		<file>121.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="122">
+		<file>122.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="123">
+		<file>123.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="124">
+		<file>124.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="125">
+		<file>125.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="126">
+		<file>126.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="127">
+		<file>127.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="128">
+		<file>128.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="129">
+		<file>129.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="130">
+		<file>130.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="131">
+		<file>131.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="132">
+		<file>132.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="133">
+		<file>133.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="134">
+		<file>134.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="135">
+		<file>135.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="136">
+		<file>136.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="137">
+		<file>137.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="138">
+		<file>138.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="139">
+		<file>139.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="140">
+		<file>140.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="141">
+		<file>141.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="142">
+		<file>142.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="143">
+		<file>143.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="144">
+		<file>144.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="145">
+		<file>145.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="146">
+		<file>146.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="147">
+		<file>147.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="148">
+		<file>148.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="149">
+		<file>149.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="150">
+		<file>150.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="151">
+		<file>151.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="152">
+		<file>152.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="153">
+		<file>153.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="154">
+		<file>154.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="155">
+		<file>155.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="156">
+		<file>156.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="157">
+		<file>157.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="158">
+		<file>158.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="159">
+		<file>159.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="160">
+		<file>160.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="161">
+		<file>161.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="162">
+		<file>162.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="163">
+		<file>163.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="164">
+		<file>164.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="165">
+		<file>165.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="167">
+		<file>167.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="168">
+		<file>168.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="169">
+		<file>169.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="170">
+		<file>170.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="171">
+		<file>171.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="172">
+		<file>90.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="173">
+		<file>173.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="174">
+		<file>174.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="175">
+		<file>175.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="176">
+		<file>176.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="177">
+		<file>177.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="178">
+		<file>178.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="179">
+		<file>179.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="180">
+		<file>180.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="181">
+		<file>181.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="182">
+		<file>182.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="183">
+		<file>183.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="184">
+		<file>184.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="185">
+		<file>185.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="186">
+		<file>186.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="187">
+		<file>187.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="188">
+		<file>188.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="189">
+		<file>189.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="190">
+		<file>190.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="191">
+		<file>191.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="192">
+		<file>192.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="193">
+		<file>193.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="194">
+		<file>194.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="195">
+		<file>195.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="196">
+		<file>196.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="197">
+		<file>197.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="198">
+		<file>198.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="199">
+		<file>199.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="200">
+		<file>200.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="201">
+		<file>201.png</file>
+		<lock>0</lock>
+	</sticker>
+
+
+	<sticker id="202">
+		<file>202.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="203">
+		<file>203.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="204">
+		<file>204.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="205">
+		<file>205.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="206">
+		<file>206.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="207">
+		<file>207.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="208">
+		<file>208.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="209">
+		<file>209.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="210">
+		<file>210.png</file>
+		<lock>0</lock>
+	</sticker>
+	<sticker id="211">
+		<file>211.png</file>
+		<lock>0</lock>
+	</sticker>
+</app>

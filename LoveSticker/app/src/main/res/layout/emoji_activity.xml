@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Grid_Background"
+    android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:nestedScrollingEnabled="false">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toLeftOf="@+id/titleEmojiSmily"
+                    android:background="@color/emoji_title_line" />
+
+                <TextView
+                    android:id="@+id/titleEmojiSmily"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:text="SMILEYS"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toRightOf="@+id/titleEmojiSmily"
+                    android:background="@color/emoji_title_line" />
+            </RelativeLayout>
+
+            <GridView
+                android:id="@+id/gvEmojiSmily"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:numColumns="7" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="16dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toLeftOf="@+id/titleEmojiAnimals"
+                    android:background="@color/emoji_title_line" />
+
+                <TextView
+                    android:id="@+id/titleEmojiAnimals"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:text="ANIMALS &amp; NATURE"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toRightOf="@+id/titleEmojiAnimals"
+                    android:background="@color/emoji_title_line" />
+            </RelativeLayout>
+
+            <GridView
+                android:id="@+id/gvEmojiAnimals"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:numColumns="7" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toLeftOf="@+id/titleEmojiFood"
+                    android:background="@color/emoji_title_line" />
+
+                <TextView
+                    android:id="@+id/titleEmojiFood"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:text="FOODS &amp; DRINK"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toRightOf="@+id/titleEmojiFood"
+                    android:background="@color/emoji_title_line" />
+            </RelativeLayout>
+
+            <GridView
+                android:id="@+id/gvEmojiFood"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:numColumns="7" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="16dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toLeftOf="@+id/titleEmojiActivity"
+                    android:background="@color/emoji_title_line" />
+
+                <TextView
+                    android:id="@+id/titleEmojiActivity"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:text="ACTIVITY"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toRightOf="@+id/titleEmojiActivity"
+                    android:background="@color/emoji_title_line" />
+            </RelativeLayout>
+
+
+            <GridView
+                android:id="@+id/gvEmojiActivity"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:numColumns="7" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="8dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toLeftOf="@+id/titleEmojiTravels"
+                    android:background="@color/emoji_title_line" />
+
+                <TextView
+                    android:id="@+id/titleEmojiTravels"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:text="TRAVEL &amp; PLACES"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toRightOf="@+id/titleEmojiTravels"
+                    android:background="@color/emoji_title_line" />
+            </RelativeLayout>
+
+            <GridView
+                android:id="@+id/gvEmojiTravels"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:numColumns="7" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="16dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toLeftOf="@+id/titleEmojiObject"
+                    android:background="@color/emoji_title_line" />
+
+                <TextView
+                    android:id="@+id/titleEmojiObject"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:text="OBJECTS"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toRightOf="@+id/titleEmojiObject"
+                    android:background="@color/emoji_title_line" />
+            </RelativeLayout>
+
+            <GridView
+                android:id="@+id/gvEmojiObject"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/titleEmoji"
+                android:numColumns="7" />
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="16dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toLeftOf="@+id/titleEmojiSymbols"
+                    android:background="@color/emoji_title_line" />
+
+                <TextView
+                    android:id="@+id/titleEmojiSymbols"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:text="SYMBOLS"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toRightOf="@+id/titleEmojiSymbols"
+                    android:background="@color/emoji_title_line" />
+            </RelativeLayout>
+
+            <GridView
+                android:id="@+id/gvEmojiSymbols"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:numColumns="7" />
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginTop="16dp"
+                android:gravity="center">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toLeftOf="@+id/titleEmojiFlags"
+                    android:background="@color/emoji_title_line" />
+
+                <TextView
+                    android:id="@+id/titleEmojiFlags"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:text="FLAGS"
+                    android:textColor="@android:color/white"
+                    android:textSize="20dp" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_centerInParent="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:layout_toRightOf="@+id/titleEmojiFlags"
+                    android:background="@color/emoji_title_line" />
+            </RelativeLayout>
+
+            <GridView
+                android:id="@+id/gvEmojiFlags"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:numColumns="7" />
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

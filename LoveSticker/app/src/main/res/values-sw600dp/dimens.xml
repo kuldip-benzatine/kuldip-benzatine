@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="icon_width">80dp</dimen>
+    <dimen name="icon_height">80dp</dimen>
+
+    <dimen name="icon_capture_width">115dp</dimen>
+    <dimen name="icon_capture_height">115dp</dimen>
+
+    <dimen name="icon_gallery_width">90dp</dimen>
+    <dimen name="icon_gallery_height">90dp</dimen>
+
+    <dimen name="icon_share_image_width">130dp</dimen>
+    <dimen name="icon_share_image_height">130dp</dimen>
+
+    <dimen name="linear_save_undo_width">640dp</dimen>
+
+    <dimen name="icon_capture_left_margin">125dp</dimen>
+    <dimen name="icon_save_left_margin">25dp</dimen>
+
+    <dimen name="icon_share_image_right_margin">28dp</dimen>
+
+    <dimen name="color_picker_layout_right_margin">24dp</dimen>
+    <dimen name="color_picker_layout_top_margin">98dp</dimen>
+
+    <dimen name="move_text_size">26dp</dimen>
+
+    <dimen name="custom_close_dialod_text_size">30dp</dimen>
+    <dimen name="custom_close_dialod_alert_message_text_size">26dp</dimen>
+    <dimen name="custom_close_dialod_button_text_size">30dp</dimen>
+    <dimen name="custom_close_dialod_button_padding">16dp</dimen>
+    <dimen name="custom_close_dialod_layout_padding">20dp</dimen>
+
+    <dimen name="custom_share_dialod_image_width">100dp</dimen>
+    <dimen name="custom_share_dialod_image_height">100dp</dimen>
+
+    <dimen name="custom_share_dialod_tital_text_size">30dp</dimen>
+    <dimen name="custom_share_dialod_text_size">26dp</dimen>
+    <dimen name="custom_share_dialod_image_margin">15dp</dimen>
+    <dimen name="custom_share_dialod_layout_padding">15dp</dimen>
+
+    <dimen name="menu_image_width">100dp</dimen>
+    <dimen name="menu_image_height">100dp</dimen>
+    <dimen name="menu_text_size">26dp</dimen>
+    <dimen name="menu_left_margin">22dp</dimen>
+    <dimen name="menu_open_close_left_margin">25dp</dimen>
+    <dimen name="menu_top_margin">80dp</dimen>
+
+    <dimen name="sticker_cell_width">130dp</dimen>
+    <dimen name="sticker_cell_height">130dp</dimen>
+
+    <dimen name="emoji_cell_width">100dp</dimen>
+    <dimen name="emoji_cell_height">100dp</dimen>
+
+</resources>

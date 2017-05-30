@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>-->
+    <!--<color name="colorPrimaryDark">#303F9F</color>-->
+    <color name="colorPrimary">#db6576</color>
+    <color name="colorPrimaryDark">#db6576</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="transparent">#00ffffff</color>
+    <color name="textoverlay">#393634</color>
+    <color name="light_bule">#2788fa</color>
+    <!--<color name="Share_Background">#383738</color>-->
+    <color name="Share_Background">#94000000</color>
+
+    <color name="Grid_Background">#80000000</color>
+    <color name="Tab_Background">#c6000000</color>
+
+    <color name="Custom_Close_Dialog">#e2eb5e74</color>
+    <color name="custome_dialog_font_color">#fbf9f4f4</color>
+    <color name="custome_dialog_border_color">#fffefe</color>
+
+    <color name="emoji_title_line">#f8fffdfd</color>
+
+</resources>
